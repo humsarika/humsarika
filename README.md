@@ -1,5 +1,5 @@
 <h1 align="center">
-<img width=2000 src= "./action.jpg" height = "400">
+<img width=800 src= "./action.jpg" height = "350">
 </h1>
 <h1 align="center">Hey 👋, I'm Sarika</h1>
 <h3 align="center">A passionate Front End developer from India</h3>
