@@ -1,5 +1,5 @@
 <h1 align="center">
-<img width=2000 src= "https://www.bdosn.org/images/2019/07/03/Workshop%20-%20Unveiling%20the%20secret%20through%20machine%20learning.jpg" height = "400">
+<img width=2000 src= "./action.jpg" height = "400">
 </h1>
 <h1 align="center">Hey 👋, I'm Sarika</h1>
 <h3 align="center">A passionate Front End developer from India</h3>
