@@ -2,14 +2,14 @@
 <img width=800 src= "./action.jpg" height = "350">
 </h1>
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sarika</h1>
-<h3 align="center">A passionate Front End developer from India</h3>
+<h3 align="center">A passionate Front End Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC -/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humsarika&label=Profile%20views&color=0e75b6&style=flat" alt="humsarika" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **sarika.vsa01@gmail.com**
 
