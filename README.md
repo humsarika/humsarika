@@ -1,8 +1,7 @@
 
-
-<h1 align="center">
 [![@humsarika's Holopin board](https://holopin.me/humsarika)](https://holopin.io/@humsarika)
 
+<h1 align="center">
 <img width=800 src= "./action.jpg" height = "350">
 </h1>
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sarika</h1>
