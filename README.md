@@ -1,4 +1,8 @@
+
+
 <h1 align="center">
+[![@humsarika's Holopin board](https://holopin.me/humsarika)](https://holopin.io/@humsarika)
+
 <img width=800 src= "./action.jpg" height = "350">
 </h1>
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sarika</h1>
@@ -46,4 +50,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humsarika&" alt="humsarika" /></p>
 
 
-[![@humsarika's Holopin board](https://holopin.me/humsarika)](https://holopin.io/@humsarika)
