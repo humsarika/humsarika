@@ -3,7 +3,7 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sarika</h1>
 
 <h3 align="center">A passionate Front End Web Developer from India </h3>
-<h4 align="center">Feel free to reaching out to </h4>
+<h4 align="center">Feel free to reaching out to me</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/sarika-kushwaha22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sarika-kushwaha22/" height="20" width="20" /></a>
 <a href="https://instagram.com/humsarika" target = "blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="humsarika" height="20" width="20" /></a>
