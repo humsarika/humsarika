@@ -10,7 +10,7 @@
 </p>
 
 <p align = "center">
-🌱    I’m currently learning <b>Backend Technologies</b> <br>
+🌱    I’m currently learning <b>Backend Technology</b> <br>
    📫    How to reach me <b>sarika.vsa01@gmail.com</b>
 </p>
 <br>
