@@ -34,7 +34,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://developer.android.com/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://hyper.is/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/180262577-2538fca2-5701-4db4-a2fd-0871adc4af84.svg" width="40" height="40"></a>
- <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/191458785-b3f513f0-89b0-4951-8c06-5ebd8a16e67d.png" alt="wordpress.org" width="40" ></a>
  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/179355900-a860afe3-ba63-4256-a7b4-760c0f416a7c.png" alt="Canva" width="40" height="40"></a>
 </p>
 <br>
