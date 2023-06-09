@@ -22,7 +22,7 @@
 
 <h1 align="left">Languages and Tools </h1>
 
-`Bootstrap`  `Go`  `Python`  `C`  `C++`  `Figma` `git` `github` `HTML5` `CSS3` `javascript` `Nodejs` `Reactjs` `Canva` 
+`Bootstrap`  `Go`  `Python`  `C`  `C++`  `Figma` `git` `github` `HTML5` `CSS3` `javascript` `Nodejs` `Express.js` `Reactjs` `Canva` 
 `linux` `MySql` 
 <br>
 
