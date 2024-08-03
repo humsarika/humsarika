@@ -2,7 +2,8 @@
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sarika Kushwaha</h1>
 
-<h3 align="center">A passionate Web Developer from  India </h3>
+<h3 align="center">A passionate Fullstack Rewa, Madhya Pradesh Web Developer from Rewa, Madhya Pradesh, India </h3>
+<h3 align="center">A passionate Fullstack Web Developer from </h3>
 <h4 align="center">Feel free to reaching out to me</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/sarika-kushwaha22/" target="blank">LinkedIn</a> | 
@@ -11,8 +12,7 @@
 </p>
 
 <p align = "center">
-🌱    I’m currently learning <b>MERN Stack</b> <br>
-   📫    How to reach me <b>sarika.vsa01@gmail.com</b>
+   📫    Do you have any queries? shoot me an email at <b>sarika.vsa01@gmail.com</b>
 </p>
 <br>
 
